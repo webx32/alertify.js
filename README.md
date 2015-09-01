@@ -72,3 +72,7 @@ alertify.js is licensed under MIT http://www.opensource.org/licenses/MIT
 
 Copyright &copy;, Fabien Doiron  
 <fabien.doiron@gmail.com>, [@fabien_doiron](http://twitter.com/fabien_doiron)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/webx32/alertify.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
